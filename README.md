@@ -9,5 +9,9 @@ double CircleAreaCalc(double radius, double PI) {
 }
 ```
 2.`CirclePerimeterCalc()` : Calculate the circumference of a circle  
-
-- Tip:The interaction part is written by AI!  
+```cpp
+double CirclePerimeterCalc(double radius, double PI) {
+	return PI * radius * 2;
+}
+```
+Tip:The interaction part is written by AI!  
