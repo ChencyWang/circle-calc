@@ -5,9 +5,8 @@ Function function:
 1.CircleAreaCalc() : Calculate the area of a circle  
 Plain Text
 ```cpp
-// C++ 示例代码
-int main(){
-    return 0;
+double CircleAreaCalc(double radius, double PI) {
+	return PI * radius * radius;
 }
 ```
 - Tip:The interaction part is written by AI!  
