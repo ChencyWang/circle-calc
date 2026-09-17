@@ -8,5 +8,5 @@ double CircleAreaCalc(double radius, double PI) {
 	return PI * radius * radius;
 }
 ```
-2.Calculate the circumference of a circle
+2.`CirclePerimeterCalc()` : Calculate the circumference of a circle
 - Tip:The interaction part is written by AI!  
