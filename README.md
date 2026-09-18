@@ -18,7 +18,7 @@ by bilibili [@Chency_Wang_lzy](https://space.bilibili.com/3706924453333179)
 12. [AreaOfARectangleCalc](#AreaOfARectangleCalc) : Calculate area of rectangle
 13. [AreaOfASquareCalc](#AreaOfASquareCalc) : Calculate area of square
 14. [VolumeOfACubeCalc](#VolumeOfACubeCalc) : Calculate volume of cube
-15. [VolumeOfARectangleCalc](#VolumeOfARectangleCalc) : Calculate volume of cuboid
+15. [VolumeOfACuboidCalc](#VolumeOfACuboidCalc) : Calculate volume of cuboid
 16. [AreaOfATriangleCalc](#AreaOfATriangleCalc) : Calculate area of triangle
 17. [AreaOfATrapezoidCalc](#AreaOfATrapezoidCalc) : Calculate area of trapezoid
 18. [AreaOfAParallelogramCalc](#AreaOfAParallelogramCalc) : Calculate area of parallelogram
@@ -141,10 +141,10 @@ double VolumeOfACubeCalc(double a) {
 }
 ```
 
-<a id="VolumeOfARectangleCalc"></a>
-### VolumeOfARectangleCalc() : Calculate volume of cuboid
+<a id="VolumeOfACuboidCalc"></a>
+### VolumeOfACuboidCalc() : Calculate volume of cuboid
 ```cpp
-double VolumeOfARectangleCalc(double a, double b, double high) {
+double VolumeOfACuboidCalc(double a, double b, double high) {
 	return a * b * high;
 }
 ```
